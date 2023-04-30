@@ -1,4 +1,9 @@
 # Project_Portaler
+
+link to comments: 
+[click here](https://docs.google.com/document/d/14oCfMdmXeog1n8v9yPfizCFxgM3B9qHzUC057Km-srE/edit?usp=sharing)
+https://docs.google.com/document/d/14oCfMdmXeog1n8v9yPfizCFxgM3B9qHzUC057Km-srE/edit?usp=sharing
+
 2D Platformer Based on portal gun concept
 
 May consider adding other gun-related mechanics in the future.
