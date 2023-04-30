@@ -1,7 +1,10 @@
 # Project_Portaler
 
-link to comments: 
+link to comment document in google drive:
+
 [click here](https://docs.google.com/document/d/14oCfMdmXeog1n8v9yPfizCFxgM3B9qHzUC057Km-srE/edit?usp=sharing)
+
+Raw Link:
 https://docs.google.com/document/d/14oCfMdmXeog1n8v9yPfizCFxgM3B9qHzUC057Km-srE/edit?usp=sharing
 
 2D Platformer Based on portal gun concept
