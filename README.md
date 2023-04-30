@@ -1,4 +1,13 @@
 # Project_Portaler
 2D Platformer Based on portal gun concept
 
-Will consider adding other gun-related mechanics in the future.
+May consider adding other gun-related mechanics in the future.
+
+# Key attributes
+* Smooth controls
+* Quick gameplay
+* Level exploration
+
+
+# Potential Adds:
+* Infinite-length (like Temple Run or Subway Surfers) gamemode
